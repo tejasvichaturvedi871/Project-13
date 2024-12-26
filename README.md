@@ -15,3 +15,4 @@ raise Exception (" There is NameErrror")
 except Exception as e:
 
 print(e)
+![Screenshot_20241227-014049_Chrome](https://github.com/user-attachments/assets/88def035-0bd0-421c-ae07-a947e93f3982)
